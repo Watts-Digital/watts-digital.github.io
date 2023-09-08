@@ -1,5 +1,5 @@
 
-# Watts Water REST API Style Guide <!-- omit in toc -->
+# Watts Digital REST API Style Guide <!-- omit in toc -->
 
 ## Purpose <!-- omit in toc -->
 
@@ -41,7 +41,7 @@ We encourage you to improve the style guide with modifications and extensions vi
 
 ## Naming
 
-The naming conventions as described are to provide consistency for Watts APIs. We know that naming is where art meets science and there MAY be deviations but any deviations MUST be kept to a minimum. An evolving linter will be published which conforms to these standards. Teams developing new APIs MUST conform to that linter in build pipelines. The linter will be written to also apply and help older APIs find differences that need to conform in future versions. This section focuses on URIs, resources, field names, and enums.
+The naming conventions as described are to provide consistency for Watts Digital APIs. We know that naming is where art meets science and there MAY be deviations but any deviations MUST be kept to a minimum. An evolving linter will be published which conforms to these standards. Teams developing new APIs MUST conform to that linter in build pipelines. The linter will be written to also apply and help older APIs find differences that need to conform in future versions. This section focuses on URIs, resources, field names, and enums.
 
 ### URI Component Names
 
